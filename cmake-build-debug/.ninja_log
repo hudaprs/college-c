@@ -1,0 +1,26 @@
+# ninja log v5
+35	576	6711335405463349	CMakeFiles/C.dir/crash-course/06-goto/goto.c.obj	de6c96968944c0
+40	562	6711335405313751	CMakeFiles/C.dir/crash-course/03-condition/condition.c.obj	f94e2ec382da5fa0
+1311	1896	6711335418409132	CMakeFiles/C.dir/exercise/semester-1/week-3/4/4.c.obj	5ea2160cefe2f143
+3	573	6711335405283833	CMakeFiles/C.dir/crash-course/01-vars/vars.c.obj	c876d38bccd1d87b
+32	581	6711335405263885	CMakeFiles/C.dir/crash-course/05-switch/switch.c.obj	6a18649c69dadaa7
+1855	2007	6711335419895156	CMakeFiles/C.dir/exercise/semester-1/week-5/1/1.c.obj	5b55d6080cb3660
+585	1299	6711335412779028	CMakeFiles/C.dir/exercise/semester-1/week-3/1/1.c.obj	86248071bbf0ac8e
+29	585	6711335405373593	CMakeFiles/C.dir/crash-course/02-input/input.c.obj	adacc9d34083d504
+38	588	6711335405573056	CMakeFiles/C.dir/crash-course/04-loop/loop.c.obj	b55471dbff70826b
+581	1305	6711335412659346	CMakeFiles/C.dir/exercise/semester-1/week-3/2/2.c.obj	2f7103e1e54baf3d
+573	1308	6711335412749104	CMakeFiles/C.dir/exercise/semester-1/week-2/trapezoid/index.c.obj	faf0b8f8cf14d631
+1896	2022	6711335420024808	CMakeFiles/C.dir/exercise/semester-1/week-5/3/3.c.obj	f57b68e1eb303390
+576	1311	6711335412818921	CMakeFiles/C.dir/crash-course/07-recursive/recursive.c.obj	5a171f964ca800f2
+4	486	6711339183504921	CMakeFiles/C.dir/exercise/semester-1/week-5/2/2.c.obj	d754958b22d7fe9f
+588	1314	6711335412659346	CMakeFiles/C.dir/exercise/semester-1/week-2/triangle/index.c.obj	df29adf2fb9bde99
+563	1382	6711335412828896	CMakeFiles/C.dir/exercise/semester-1/week-2/prime-number/index.c.obj	3f48dbfbd58bf0b1
+1308	1854	6711335417980276	CMakeFiles/C.dir/exercise/semester-1/week-4/1/1.c.obj	53f7eed06bd2aac5
+1299	1814	6711335417710996	CMakeFiles/C.dir/exercise/semester-1/week-3/5/5.c.obj	5806d104127b5ec7
+1314	1824	6711335417790782	CMakeFiles/C.dir/exercise/semester-1/week-4/2/2.c.obj	c6772bf5f97a18a3
+1305	1879	6711335418080005	CMakeFiles/C.dir/exercise/semester-1/week-3/3/3.c.obj	88b39d0ba87dc41f
+1382	1975	6711335419276804	CMakeFiles/C.dir/exercise/semester-1/week-4/4/4.c.obj	8b92f55e4c703e71
+1825	1984	6711335419516167	CMakeFiles/C.dir/exercise/semester-1/week-4/5/1.c.obj	821a5146ca21645a
+5	337	6711335824937101	CMakeFiles/C.dir/exercise/semester-1/week-4/3/3.c.obj	2c1838bab321f543
+3	397	6711340866683796	build.ninja	bd991ce2050fcca8
+3	320	6711340870589040	CMakeFiles/C.dir/exercise/semester-1/week-5/2/main.c.obj	2d1873bd3f22b236
