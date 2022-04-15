@@ -1,10 +1,5 @@
 #include <stdio.h>
 
-void set_string(char str[])
-{
-  fgets(str, sizeof(str), stdin);
-}
-
 void main()
 {
   char lulus[50] = "Lulus";
