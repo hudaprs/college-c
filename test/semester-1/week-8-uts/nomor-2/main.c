@@ -32,5 +32,6 @@ void main()
   // Kalkulasi detik
   detik = sisa_detik;
 
-  printf("%d Detik = %d Jam, %d Menit, %d Detik.", input_detik, jam, menit, detik);
+  printf("%d Detik = %d Jam, %d Menit, %d Detik. \n", input_detik, jam, menit, detik);
+  printf("%d Detik = %d:%d:%d. \n", input_detik, jam, menit, detik);
 }
