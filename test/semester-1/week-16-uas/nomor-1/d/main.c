@@ -3,10 +3,10 @@
 int main() {
   char characters[5][5] = { 
     {'A', 'B', 'C', 'D', 'E'},
-    {NULL, 'F', 'G', 'H', 'I'},
-    {NULL, NULL, 'J', 'K', 'L'},
-    {NULL, NULL, NULL, 'M', 'N'},
-    {NULL, NULL, NULL, NULL, 'O'} 
+    {' ', 'F', 'G', 'H', 'I'},
+    {' ', ' ', 'J', 'K', 'L'},
+    {' ', ' ', ' ', 'M', 'N'},
+    {' ', ' ', ' ', ' ', 'O'} 
   };
   int loop;
 
