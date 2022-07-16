@@ -8,7 +8,6 @@ int main() {
     {' ', 'G', 'H', 'I', 'J'},
     {'K', 'L', 'M', 'N', 'O',} 
   };
-  int loop;
 
   for (int i = 0; i < 5; ++i)
   {
